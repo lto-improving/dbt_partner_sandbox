@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: sandbox_bronze
+    database: bronze  
+    schema: airbnb  
+    tables:
+      - name: RAW_HOSTS
+      - name: RAW_LISTINGS
+      - name: RAW_REVIEWS
