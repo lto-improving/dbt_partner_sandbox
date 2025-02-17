@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+This is dbt project is both managed and executed in dbt cloud and dbt core project.
 
 ### Using the starter project
 
