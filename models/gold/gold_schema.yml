@@ -1,0 +1,6 @@
+version: 2
+
+models:
+    - name: airbnb_data_report
+      description: "Consumption Layer Airbnb Report"
+
